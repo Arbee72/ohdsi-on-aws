@@ -2,7 +2,7 @@
   "name": "ohdsi-on-aws",
   "version": "0.1.0",
   "bin": {
-    "ohdsi-on-aws": "bin/ohdsi-on-aws.js"
+    "ohdsi-on-aws": "bin/main.js"
   },
   "scripts": {
     "build": "tsc",

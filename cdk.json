@@ -1,5 +1,7 @@
 {
-  "app": "npx ts-node --prefer-ts-exts bin/ohdsi-on-aws.ts",
+  "app": "npx ts-node --prefer-ts-exts bin/main.ts",
+  "profile": "du",
+  "requireApproval": "never",
   "watch": {
     "include": [
       "**"
